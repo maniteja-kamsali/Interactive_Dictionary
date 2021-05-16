@@ -4,6 +4,6 @@ A Dictionary in Python works similar to the Dictionary in a real world. Keys of 
 
 Modules needed:
 
-json: It comes built-in with python, so there is no need to install it externally. To know more about JSON [click here]('https://www.geeksforgeeks.org/javascript-json/').
+json: It comes built-in with python, so there is no need to install it externally. To know more about JSON [click here](https://www.geeksforgeeks.org/javascript-json/).
 
 difflib: This module provides classes and functions for comparing sequences. It also comes built-in with python so there is no need to install it externally.
